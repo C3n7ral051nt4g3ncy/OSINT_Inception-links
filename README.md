@@ -122,6 +122,12 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 97         |https://start.me/p/7kmvEK/oster                                           | Oster Toolbox for Journalists                |
 | 98         |https://start.me/p/7kqdKA/01-mediamap                                     | Media Map (US media                          |
 | 99         |https://start.me/p/1kOJ9N/16-osint-io                                     | OSINT-IO                                     |
+| 100        |https://start.me/p/0PeKwy/osint-russie-iec-ies                            | OSINT Russia (Osint Russie) [French]         |
+| 101        |https://start.me/p/rxDad8/global                                          | OSINT Global                                 |
+| 102        |https://start.me/p/dlbyRn/canada                                          | Canada OSINT                                 |
+| 103        |https://start.me/p/gyq0Rz/united-kingdom                                  | UK OSINT                                     |
+| 104        |https://start.me/p/7kqjlY/social-media                                    | SOCMINT                                      |
+| 105        |https://start.me/p/GEbBzz/access-osint                                    | Access OSINT                                 |
 
 
 
