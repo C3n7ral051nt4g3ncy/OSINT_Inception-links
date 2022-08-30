@@ -8,7 +8,7 @@
 <br>
 
 ## Community Help ⛑️
-Feel free to submit an Issue or PR for any broken links. (Even though I regularly check for broken links and maintain this project).
+**Feel free to submit an Issue or PR for any broken links**. (Even though I regularly check for broken links and maintain this project).
 
 <br>
 
