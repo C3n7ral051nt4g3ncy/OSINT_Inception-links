@@ -1,5 +1,5 @@
-## OSINT Inception | Links
-### Current (working) links for Start.me pages on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
+## OSINT Inception | Links 🔎
+### Current (working) links for Start.me pages that are present on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
 
 <br>
 
@@ -12,12 +12,12 @@
 
 <br>
 
-## OSINT Inception Google CSE (Custom Search Engine):
+## OSINT Inception Google CSE (Custom Search Engine) 🇬:
 CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 
 <br>
 
-## Links
+## Links 🔗
 
 <br>
 
