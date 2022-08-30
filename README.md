@@ -12,6 +12,11 @@ Feel free to submit an Issue or PR for any broken links, even though I regularly
 
 <br>
 
+## OSINT Inception Google CSE (Custom Search Engine):
+CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
+
+<br>
+
 ## Links
 
 <br>
@@ -117,6 +122,9 @@ Feel free to submit an Issue or PR for any broken links, even though I regularly
 | 97         |https://start.me/p/7kmvEK/oster                                           | Oster Toolbox for Journalists                |
 | 98         |https://start.me/p/7kqdKA/01-mediamap                                     | Media Map (US media                          |
 | 99         |https://start.me/p/1kOJ9N/16-osint-io                                     | OSINT-IO                                     |
+
+
+
 
 
 
