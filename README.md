@@ -128,7 +128,27 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 103        |https://start.me/p/gyq0Rz/united-kingdom                                  | UK OSINT                                     |
 | 104        |https://start.me/p/7kqjlY/social-media                                    | SOCMINT                                      |
 | 105        |https://start.me/p/GEbBzz/access-osint                                    | Access OSINT                                 |
-
+| 106        |https://start.me/p/eknElD/financial-crime-homepage                        | Financial Crime                              |
+| 107        |https://start.me/p/gyaOJz/investigator-tools                              | Investigator Tools                           |
+| 108        |https://start.me/p/aL0vEX/kevin-nguyen-s-osint-for-ukraine-and-australia  | OSINT Ukraine and Australia by K. N'Guyen    |
+| 109        |https://start.me/p/gyvaAJ/open-source-investigative-tools                 | Open Source Tools by Malachy Browne          |
+| 110        |https://start.me/p/m65757/osint                                           | OSINT by Tom Van Dam                         |
+| 111        |https://start.me/p/dl1ME2/video-resource-toolbox                          | Video Resource Toolbox by Erin Mathew        |
+| 112        |https://start.me/p/KMO5gO/the-hatless-collection                          | The Hatless Collection                       |
+| 113        |https://start.me/p/QRQb0O/trouble-fake                                    | OSINT Resources by TroubleFake               |
+| 114        |https://start.me/p/Bn8n6m/pai-research                                    | PAI Research OSINT Resources                 |
+| 115        |https://start.me/p/Wrrzk0/tools                                           | Tools by Eoghan                              |
+| 116        |https://start.me/p/xbLaNy/concrete-sourcing                               | Concrete Sourcing by Jerome Tatom            |
+| 117        |https://start.me/p/ELkYYQ/osint-resource-tools                            | OSINT Resources by Mike                      |
+| 118        |https://start.me/p/ydEgyG/core-osint-skills                               | Core OSINT Skills SEC 487                    |
+| 119        |https://start.me/p/ELKzX5/osint                                           | OSINT Resources by Caeyagen                  |
+| 120        |https://start.me/p/aL2EPj/business-and-dark-web-osint                     | Business and Dark Web by SEC487              |
+| 121        |https://start.me/p/ELqnRr/la-jungla-osint-por-ra1000                      | La Jungla OSINT (Spanish)                    |
+| 122        |https://start.me/p/BnBb5v/jornadas-osint                                  | Jornadas OSINT (Spanish)                     |
+| 123        |https://blog.start.me/osint-resources-experts/                            | How to Manage OSINT Resources by Technisette |
+| 124        |https://start.me/p/ek2p4x/internetrecherche-2-0                           | Internetrecherche2.0 by Bashinho (German)    |
+| 125        |https://start.me/p/KMAbkB/osint-south-africa                              | OSINT South Africa by Da Vinci Forensics     |
+| 126        |https://start.me/p/q6mw4Q/forensics                                       | Forensics by STARK 4N6                       |
 
 
 
