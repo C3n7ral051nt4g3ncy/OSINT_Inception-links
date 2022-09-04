@@ -13,6 +13,7 @@
 <br>
 
 ## OSINT Inception Google CSE (Custom Search Engine) 🇬:
+The Google Custom Search Engine specifically crawls 🕷️ the 131 start.me pages on project OSINT Inception.
 CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 
 <br>
