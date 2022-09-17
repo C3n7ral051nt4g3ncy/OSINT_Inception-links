@@ -161,7 +161,7 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 131        |https://start.me/p/ME0nYA/osint                                           | OSINT by Fran                                |
 | 132        |https://start.me/p/OmOrJb/threat-hunting                                  | Threat Hunting by Sighlent                   |
 | 133        |https://start.me/p/7kKKMx/osint-for-all                                   | OSINT for All by The-Amoghavarsha            |
-
+| 134        |https://start.me/p/xb4Npa/ai                                              | Artifical Intelligence sites by Jlitz88      |
 
 
 
