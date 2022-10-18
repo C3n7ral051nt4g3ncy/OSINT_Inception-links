@@ -185,20 +185,22 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 155        |https://start.me/p/Ya9pEN/20ss                                            | Short Selling                                |
 | 156        |https://start.me/p/GE69dK/21il                                            | Gangs & Crime                                |
 | 157        |https://start.me/p/1kOeNY/22loq                                           | LOQ - Legion of Questionableness             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 158        |https://start.me/p/BnrKpe/02-opsec-online-privacy                         | OPSEC - Online Privacy                       |
+| 159        |https://start.me/p/7kazg5/03-ip-addresses-domains-email                   | IP Adresses, Domains, Emails                 |
+| 160        |https://start.me/p/z4Aleg/04-online-searching                             | Online Searching                             |
+| 161        |https://start.me/p/ADr4qn/05-socmint                                      | SOCMINT                                      |
+| 162        |https://start.me/p/gyEalK/06-imint-vi-geoint                              | IMINT, GEOINT                                |
+| 163        |https://start.me/p/onEm1Y/07-finint-cryptocurrency                        | FININT, Cryptocurrency                       |
+| 164        |https://start.me/p/Nx1GnY/08-automating-and-visualisation                 | Automation and Visualisation                 |
+| 165        |https://start.me/p/xbEwoa/09-industry-professionals                       | Industry Professionals                       |
+| 166        |https://start.me/p/vjAjjb/10-podcasts                                     | Poscasts                                     |
+| 167        |https://start.me/p/DPBXOz/11-tools                                        | Tools                                        |
+| 168        |https://start.me/p/4Kxpxa/12-courses-and-education                        | Courses and Education                        |
+| 169        |https://start.me/p/aLpRdj/13-methodology-ethics-mindset                   | Methodology, Ethics, Mindset                 |
+| 170        |https://start.me/p/X2wwpk/14-dark-web-breach-data                         | Dark Web, Data Breaches                      |
+| 171        |https://start.me/p/2p1x6J/15-phone-number-business-register               | Phone Number, Business Register              |
+| 172        |https://start.me/p/Pwxv4y/16-id-and-travel-documents                      | ID, Travel Documents                         |
+| 173        |https://start.me/p/q6mmMA/17-road-transportation                          | Road Transportation                          |
+| 174        |https://start.me/p/m6mLBk/18-maritime                                     | Maritime OSINT                               |
+| 175        |https://start.me/p/Nx1g5M/19-aviation                                     | Aviation OSINT                               |
+| 176        |https://start.me/p/Nxrb27/20-nordic-countries                             | Nordic countries                             |
