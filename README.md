@@ -163,29 +163,28 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 133        |https://start.me/p/7kKKMx/osint-for-all                                   | OSINT for All by The-Amoghavarsha            |
 | 134        |https://start.me/p/xb4Npa/ai                                              | Artifical Intelligence sites by Jlitz88      |
 | 135        |https://start.me/p/p1qj2E/osint-extensions                                | add-ons by Mark from @OSINTResearch          |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 136        |https://start.me/p/7kqdKA/01-mediamap                                     | Media Map - Political Press                  |
+| 137        |https://start.me/p/BnMl5v/02l                                             | Media Map - Political Press                  |
+| 138        |https://start.me/p/wMXa9Y/03cl                                            | Media Map - Political Press                  |
+| 139        |https://start.me/p/ADQGek/04lb                                            | Media Map - Political Press                  |
+| 140        |https://start.me/p/QRw7xR/05cr                                            | Media Map - Political Press                  |
+| 141        |https://start.me/p/2prQ06/06r                                             | Media Map - Political Press                  |
+| 142        |https://start.me/p/lLaoXv/07world                                         | Media Map - World Press                      |
+| 143        |https://start.me/p/RMR7Jv/08fareast                                       | Media Map - Far-East                         |
+| 144        |https://start.me/p/nRr1Pa/09europe                                        | Media Map - Europe                           |
+| 145        |https://start.me/p/9EQrXa/10mideast                                       | Media Map - Middle-East                      |
+| 146        |https://start.me/p/aLMpJp/11africa                                        | Media Map - Africa                           |
+| 147        |https://start.me/p/5vELOn/12americas                                      | Media Map - Americas                         |
+| 148        |https://start.me/p/kxyMOD/13-pods                                         | Media Map - Podcasts                         |
+| 149        |https://start.me/p/q6PqMQ/14science                                       | Media Map - Science                          |
+| 150        |https://start.me/p/Yan2Nq/15illicittf                                     | Illicit Trade and Fraud                      |
+| 151        |https://start.me/p/1kOJ9N/16osint-io                                      | OSINT                                        |
+| 152        |https://start.me/p/8y7D50/17re                                            | Rear Earth Elements                          |
+| 153        |https://start.me/p/GE5OYK/18                                              | Business/Investing                           |
+| 154        |https://start.me/p/MEkpaA/19crypto                                        | Cryptocurrency                               |
+| 155        |https://start.me/p/Ya9pEN/20ss                                            | Short Selling                                |
+| 156        |https://start.me/p/GE69dK/21il                                            | Gangs & Crime                                |
+| 157        |https://start.me/p/1kOeNY/22loq                                           | LOQ - Legion of Questionableness             |
 
 
 
