@@ -17,7 +17,8 @@ The Google Custom Search Engine specifically crawls 🕷️ the start.me pages l
 - Example: You need tools for Telegram, you can type: `"Telegram" OR "telegram"`, this search currently returns over 3 pages of data from all the startme projects listed within OSINT Inception.
 
 <br>
-OSINT Inception Link: https://start.me/p/Pwy0X4/osint-inception 
+OSINT Inception Startme Project Link: https://start.me/p/Pwy0X4/osint-inception 
+<br>
 <br>
 
 CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
