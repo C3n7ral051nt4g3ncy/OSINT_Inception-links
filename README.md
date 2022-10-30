@@ -1,5 +1,5 @@
 ## OSINT Inception | Links 🔎
-### Current (working) links for Start.me pages that are listed/present, on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
+### Current (working) links for Start.me pages that are listed on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
 
 <br>
 
