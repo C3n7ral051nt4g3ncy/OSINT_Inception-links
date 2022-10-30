@@ -8,13 +8,13 @@
 <br>
 
 ## Community Help ⛑️
-**Feel free to submit an Issue or PR for any broken links**. (Even though I regularly check for broken links and maintain this project).
+**Feel free to submit an Issue or PR (Pull Request) for any broken links**. (Even though I regularly check for broken links and I maintain this project).
 
 <br>
 
 ## OSINT Inception Google CSE (Custom Search Engine) 🇬:
-The Google Custom Search Engine specifically crawls 🕷️ the 131 start.me pages on project OSINT Inception. <br>
-- Example: You need tools for Telegram, you can type: `"Telegram" OR "telegram"`, this search currently returns 3 pages of data from the 135 startme projects within OSINT Inception.
+The Google Custom Search Engine specifically crawls 🕷️ the start.me pages listed on project OSINT Inception. <br>
+- Example: You need tools for Telegram, you can type: `"Telegram" OR "telegram"`, this search currently returns over 3 pages of data from all the startme projects listed within OSINT Inception.
 
 <br>
 OSINT Inception Link: https://start.me/p/Pwy0X4/osint-inception 
