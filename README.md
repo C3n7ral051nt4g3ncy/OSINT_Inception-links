@@ -214,3 +214,4 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 178        |https://start.me/p/EL0rjQ/osint-tools-by-mattia-vicenzi                   | OSINT Tools by Mattia Vicenzi                |
 | 179        |https://start.me/p/0PMrge                                                 | Various OSINT by Rafael Robinson             |
 | 180        |https://start.me/p/m6Kj56/osint                                           | OSINT by Cleber Nunes                        |
+| 181        |https://start.me/p/rxRbpo/cti                                             | CTI resources/OSINT by Paranoid Chick.       |
