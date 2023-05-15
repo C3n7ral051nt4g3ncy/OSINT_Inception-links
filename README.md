@@ -15,6 +15,11 @@
 
 <br>
 
+## Mentions 🗣️
+Thank you to @WebBreacher for using and mentionning OSINT Inception foor his project ==> https://smart.myosint.training/ 
+
+<br>
+
 ## OSINT Inception Google CSE (Custom Search Engine) 🇬:
 The Google Custom Search Engine specifically crawls 🕷️ the start.me pages listed on project OSINT Inception. <br>
 - Example: You need tools for Telegram, you can type: `"Telegram" OR "telegram"`, this search currently returns over 3 pages of data from all the startme projects listed within OSINT Inception.
@@ -218,3 +223,5 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 182        |https://start.me/p/0Pqbdg/osint-500-tools                                 | OSINT 500 tools by Yousef Ebrahimi           |
 | 183        |https://start.me/p/KMqwBB/osint-in-malaysia-resources                     | OSINT Malaysia by Finx                       |
 | 184        |https://start.me/p/7kgYY5/intelligence-analysis-field-guide               | Intelligence analysis field guide            |
+| 185        |https://start.me/p/GE7JQb/osint                                           | OSINT by OSINT Labs                          |
+| 186        |https://start.me/p/BnBb5v/jornadas-osint                                  | Jornadas OSINT                               |
