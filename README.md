@@ -224,4 +224,3 @@ CSE Link: https://cse.google.com/cse?cx=443e96712f6754517
 | 183        |https://start.me/p/KMqwBB/osint-in-malaysia-resources                     | OSINT Malaysia by Finx                       |
 | 184        |https://start.me/p/7kgYY5/intelligence-analysis-field-guide               | Intelligence analysis field guide            |
 | 185        |https://start.me/p/GE7JQb/osint                                           | OSINT by OSINT Labs                          |
-| 186        |https://start.me/p/BnBb5v/jornadas-osint                                  | Jornadas OSINT                               |
